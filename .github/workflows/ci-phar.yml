@@ -1,7 +1,5 @@
 name: CI_phar
-
 on: [push]
-
 jobs:
   phpstan:
     runs-on: ubuntu-latest
